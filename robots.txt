@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umopeera.github.io/AgF/sitemap_index.txt
+Sitemap: https://umopeera.github.io/CKH/sitemap_index.txt
+Sitemap: https://umopeera.github.io/VgJ/sitemap_index.txt
+Sitemap: https://umopeera.github.io/lib/sitemap_index.txt
